@@ -5,6 +5,7 @@ Wordle in all the languages of the world, or at least the ones we already know a
 * [Arabic](https://arwordle.netlify.app/) اَلْعَرَبِيَّةُ
 * [Arabic](https://www.kalimah.xyz/)
 * [Aragonese](https://paroletas-wordle.religada.com/) Aragonés
+* [Armenian](http://www.parig.xyz/) (Western Armenian) արեւմտահայերէն
 * [Basque](https://wordle.talaios.coop/)
 * [Czech](https://slovo.ppolivka.com/)  Česká
 * [Czech](https://hadejslova.cz/) Česká
