@@ -36,6 +36,7 @@ Wordle in all the languages of the world, or at least the ones we already know a
 * [Persian](https://www.vaajoor.ir/) فارسی
 * [Portuguese](https://wordlegame.org/wordle-in-portuguese) Português
 * [Portuguese](https://term.ooo/) Português  (Brazilian Portugues?)
+* [Russian](https://wordle.belousov.one/) русский язык
 * [Spanish](https://wordle.danielfrg.com/) Español
 * [Spanish](https://wordlegame.org/wordle-in-spanish) Español
 * [Swedish](https://ordsnille.brusman.se/) Svenska
