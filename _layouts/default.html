@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+
+    <meta charset="UTF-8">
+
+{% seo %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+    <header class="page-header" role="banner">
+      <h1 class="project-name"><a href="/">{{ page.title | default: site.title }}</a></h1>
+<!--
+      <h2 class="project-tagline"><a href="/">{{ page.description | default: site.description }}</a></h2>
+-->
+    </header>
+
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+
+      <footer class="site-footer">
+        <span class="site-footer-credits"><a href="/">home</a></span>
+      </footer>
+    </main>
+
+  </body>
+</html>
+
