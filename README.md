@@ -9,6 +9,7 @@
 * [Italian](https://sebastianomorando.github.io/wordle-it/) Italiano
 * [Ladino](https://ladino.szabgab.com/wordle/) Judeo-Spanish, Djudeo-Espanyol
 * [Ladino](https://f.github.io/wordle-ladino/) Judeo-Spanish, Djudeo-Espanyol
+* [Yiddish](https://www.jiconway.com/vertl/)  יידיש
 
 
 * [Source](https://github.com/szabgab/wordle) Send updates here
