@@ -22,6 +22,7 @@ Wordle in all the languages of the world, or at least the ones we already know a
 * [Italian](https://sebastianomorando.github.io/wordle-it/) Italiano
 * [Italian](https://wordlegame.org/wordle-in-italian) Italiano
 * [Japanese](https://aseruneko.github.io/WORDLEja/)
+* [Korean](https://danwordle.vercel.app/) 한국어
 * [Kurdish](https://f.github.io/wordle-kurdi/)
 * [Ladino](https://ladino.szabgab.com/wordle/) Judeo-Spanish, Djudeo-Espanyol
 * [Ladino](https://f.github.io/wordle-ladino/) Judeo-Spanish, Djudeo-Espanyol
