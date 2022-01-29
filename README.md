@@ -11,3 +11,4 @@
 * [Ladino](https://f.github.io/wordle-ladino/) Judeo-Spanish, Djudeo-Espanyol
 
 
+* [Source](https://github.com/szabgab/wordle) Send updates here
