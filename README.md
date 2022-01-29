@@ -13,6 +13,7 @@
 * [Italian](https://wordlegame.org/wordle-in-italian) Italiano
 * [Ladino](https://ladino.szabgab.com/wordle/) Judeo-Spanish, Djudeo-Espanyol
 * [Ladino](https://f.github.io/wordle-ladino/) Judeo-Spanish, Djudeo-Espanyol
+* [Macedonian](https://zborle.mk/) македонски јазик
 * [Portuguese](https://wordlegame.org/wordle-in-portuguese) Português
 * [Spanish](https://wordle.danielfrg.com/) Español
 * [Spanish](https://wordlegame.org/wordle-in-spanish) Español
