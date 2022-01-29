@@ -6,6 +6,7 @@ Wordle in all the languages of the world, or at least the ones we already know a
 * [Arabic](https://www.kalimah.xyz/)
 * [Aragonese](https://paroletas-wordle.religada.com/) Aragonés
 * [Basque](https://wordle.talaios.coop/)
+* [Czech](https://slovo.ppolivka.com/)  Česká
 * [Czech](https://hadejslova.cz/) Česká
 * [English](https://www.powerlanguage.co.uk/wordle/) The Original?
 * [English](https://wordle.hannahmariepark.com/)
@@ -28,6 +29,7 @@ Wordle in all the languages of the world, or at least the ones we already know a
 * [Macedonian](https://zborle.mk/) македонски јазик
 * [Malay](https://malay-wordle.netlify.app/) Bahasa Melayu
 * [Norwegian](https://www.wordle.lol/) Norsk
+* [Persian](https://www.vaajoor.ir/) فارسی
 * [Portuguese](https://wordlegame.org/wordle-in-portuguese) Português
 * [Portuguese](https://term.ooo/) Português  (Brazilian Portugues?)
 * [Spanish](https://wordle.danielfrg.com/) Español
@@ -38,6 +40,7 @@ Wordle in all the languages of the world, or at least the ones we already know a
 * [Turkish](https://f.github.io/wordle-tr/)
 * [Urdu](https://urdle.chaoticity.com/)
 * [Yiddish](https://www.jiconway.com/vertl/)  יידיש
+* [Yiddish](https://greenwichmeanti.me/wordle/)  יידיש
 
 If you know of a Wordle version in some other language, send a <a href="https://github.com/szabgab/wordle">pull-request</a> or post it as an issue.
 
