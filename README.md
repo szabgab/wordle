@@ -1,5 +1,3 @@
-# Wordle
-
 * [English](https://www.powerlanguage.co.uk/wordle/) The Original?
 * [English](https://wordle.hannahmariepark.com/)
 * [English](https://wordlegame.org/)
