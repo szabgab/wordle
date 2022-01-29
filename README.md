@@ -1,3 +1,4 @@
+* [Czech](https://hadejslova.cz/) Česká
 * [English](https://www.powerlanguage.co.uk/wordle/) The Original?
 * [English](https://wordle.hannahmariepark.com/)
 * [English](https://wordlegame.org/)
@@ -14,6 +15,7 @@
 * [Ladino](https://f.github.io/wordle-ladino/) Judeo-Spanish, Djudeo-Espanyol
 * [Macedonian](https://zborle.mk/) македонски јазик
 * [Malay](https://malay-wordle.netlify.app/) Bahasa Melayu
+* [Norwegian](https://www.wordle.lol/) Norsk
 * [Portuguese](https://wordlegame.org/wordle-in-portuguese) Português
 * [Spanish](https://wordle.danielfrg.com/) Español
 * [Spanish](https://wordlegame.org/wordle-in-spanish) Español
