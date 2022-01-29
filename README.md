@@ -12,4 +12,3 @@
 * [Yiddish](https://www.jiconway.com/vertl/)  יידיש
 
 
-* [Source](https://github.com/szabgab/wordle) Send updates here
