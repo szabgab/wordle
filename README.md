@@ -28,6 +28,7 @@ Wordle in all the languages of the world, or at least the ones we already know a
 * [Kurdish](https://f.github.io/wordle-kurdi/)
 * [Ladino](https://ladino.szabgab.com/wordle/) Judeo-Spanish, Djudeo-Espanyol
 * [Ladino](https://f.github.io/wordle-ladino/) Judeo-Spanish, Djudeo-Espanyol
+* [Latin](https://hands-up-education.org/arepo/arepo.html)
 * [Latvian](https://wordle.lielakeda.lv/) Latviešu valodā
 * [Macedonian](https://zborle.mk/) македонски јазик
 * [Malay](https://malay-wordle.netlify.app/) Bahasa Melayu
