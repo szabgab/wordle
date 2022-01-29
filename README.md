@@ -1,6 +1,7 @@
 # Wordle
 
 * [English](https://www.powerlanguage.co.uk/wordle/) The Original?
+* [English](https://wordle.hannahmariepark.com/)
 * [English](https://wordlegame.org/)
 * [French](https://www.solitaire-play.com/lemot/) En français
 * [French](https://wordlegame.org/wordle-in-french)  En français
@@ -14,6 +15,7 @@
 * [Ladino](https://ladino.szabgab.com/wordle/) Judeo-Spanish, Djudeo-Espanyol
 * [Ladino](https://f.github.io/wordle-ladino/) Judeo-Spanish, Djudeo-Espanyol
 * [Macedonian](https://zborle.mk/) македонски јазик
+* [Malay](https://malay-wordle.netlify.app/) Bahasa Melayu
 * [Portuguese](https://wordlegame.org/wordle-in-portuguese) Português
 * [Spanish](https://wordle.danielfrg.com/) Español
 * [Spanish](https://wordlegame.org/wordle-in-spanish) Español
