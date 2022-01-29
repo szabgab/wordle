@@ -1,6 +1,7 @@
 
 Wordle in all the languages of the world, or at least the ones we already know about.
 
+* [Arabic](https://arwordle.netlify.app/) اَلْعَرَبِيَّةُ
 * [Czech](https://hadejslova.cz/) Česká
 * [English](https://www.powerlanguage.co.uk/wordle/) The Original?
 * [English](https://wordle.hannahmariepark.com/)
