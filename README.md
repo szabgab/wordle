@@ -1,6 +1,8 @@
 
 Wordle in all the languages of the world, or at least the ones we already know about.
 
+* [Afrikaans](https://watse.klyntji.com/)
+* [Afrikaans](https://wortel.wrintiewaar.co.za/)
 * [Albanian](https://luaj.live/)
 * [Arabic](https://arwordle.netlify.app/) اَلْعَرَبِيَّةُ
 * [Arabic](https://www.kalimah.xyz/)
@@ -48,4 +50,7 @@ Wordle in all the languages of the world, or at least the ones we already know a
 * [Yiddish](https://greenwichmeanti.me/wordle/)  יידיש
 
 If you know of a Wordle version in some other language, send a <a href="https://github.com/szabgab/wordle">pull-request</a> or post it as an issue.
+
+See also: <a href="https://game.acme.to/wordle/">this</a> and <a href="https://rwmpelstilzchen.gitlab.io/wordles/">this</a>.
+
 
