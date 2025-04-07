@@ -14,12 +14,9 @@ Wordle in all the languages of the world, or at least the ones we already know a
 * [English](https://wordlegame.org/)
 * [French](https://www.solitaire-play.com/lemot/) En français
 * [French](https://wordle.louan.me/) En français
-* [German](https://wordlegame.org/wordle-in-german) Deutsch
-* [Hebrew](https://meduyeket.net/) עברית
 * [Hungarian](https://szozat.miklosdanka.com/) Magyar
 * [Hungarian](https://jealousmarkup.xyz/szofejto/) Magyar
 * [Italian](https://sebastianomorando.github.io/wordle-it/) Italiano
-* [Italian](https://wordlegame.org/wordle-in-italian) Italiano
 * [Japanese](https://aseruneko.github.io/WORDLEja/)
 * [Korean](https://danwordle.vercel.app/) 한국어
 * [Kurdish](https://f.github.io/wordle-kurdi/)
@@ -28,21 +25,17 @@ Wordle in all the languages of the world, or at least the ones we already know a
 * [Latin](https://hands-up-education.org/arepo/arepo.html)
 * [Latvian](https://wordle.lielakeda.lv/) Latviešu valodā
 * [Macedonian](https://zborle.mk/) македонски јазик
-* [Malay](https://malay-wordle.netlify.app/) Bahasa Melayu
+* [Malay](https://malay-wordle.yaaaang.com/) Bahasa Melayu
 * [Norwegian](https://www.wordle.lol/) Norsk
 * [Persian](https://www.vaajoor.ir/) فارسی
-* [Portuguese](https://wordlegame.org/wordle-in-portuguese) Português
 * [Portuguese](https://term.ooo/) Português  (Brazilian Portugues?)
 * [Russian](https://wordle.belousov.one/) русский язык
 * [Spanish](https://wordle.danielfrg.com/) Español
 * [Spanish](https://wordlegame.org/wordle-in-spanish) Español
 * [Swedish](https://ordsnille.brusman.se/) Svenska
 * [Swedish](https://ordlig.se/) Svenska
-* [Tamil](https://tamilwordle-maleycpqdq-el.a.run.app/) ?
-* [Turkish](https://f.github.io/wordle-tr/)
 * [Yiddish](https://www.jiconway.com/vertl/)  יידיש
 * [Yiddish](https://greenwichmeanti.me/wordle/)  יידיש
-
 * [Español](https://wordlees.com/)
 * [Català](https://wordlecatala.com/)
 * [Euskera](https://wordleeuskera.com/)
