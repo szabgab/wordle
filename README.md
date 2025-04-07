@@ -43,7 +43,6 @@ Wordle in all the languages of the world, or at least the ones we already know a
 * [Swedish](https://ordlig.se/) Svenska
 * [Tamil](https://tamilwordle-maleycpqdq-el.a.run.app/) ?
 * [Turkish](https://f.github.io/wordle-tr/)
-* [Urdu](https://urdle.chaoticity.com/)
 * [Yiddish](https://www.jiconway.com/vertl/)  יידיש
 * [Yiddish](https://greenwichmeanti.me/wordle/)  יידיש
 

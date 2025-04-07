@@ -13,10 +13,6 @@ def main():
                 print(url)
                 rv = requests.get(url)
 
-                # Return 406 for the request
-                if url == 'https://urdle.chaoticity.com/':
-                    continue
-
                 if rv.status_code == 200:
                     dom = BeautifulSoup(rv.content,  'html.parser')
                     print(dom.title)
