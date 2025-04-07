@@ -12,8 +12,6 @@ Wordle in all the languages of the world, or at least the ones we already know a
 * [Basque](https://wordle.talaios.coop/)
 * [Czech](https://slovo.ppolivka.com/)  Česká
 * [Czech](https://hadejslova.cz/) Česká
-* [English](https://www.powerlanguage.co.uk/wordle/) The Original?
-* [English](https://wordle.hannahmariepark.com/)
 * [English](https://wordlegame.org/)
 * [French](https://www.solitaire-play.com/lemot/) En français
 * [French](https://wordlegame.org/wordle-in-french) En français
