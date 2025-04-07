@@ -49,6 +49,13 @@ Wordle in all the languages of the world, or at least the ones we already know a
 * [Yiddish](https://www.jiconway.com/vertl/)  יידיש
 * [Yiddish](https://greenwichmeanti.me/wordle/)  יידיש
 
+* [Español](https://wordlees.com/)
+* [Català](https://wordlecatala.com/)
+* [Euskera](https://wordleeuskera.com/)
+* [Galego](https://wordlegalego.com/)
+* [Canario](https://wordlecanario.org/)
+* [Andaluz](https://wordleandaluz.com/)
+
 If you know of a Wordle version in some other language, send a <a href="https://github.com/szabgab/wordle">pull-request</a> or post it as an issue.
 
 See also: <a href="https://game.acme.to/wordle/">this</a> and <a href="https://rwmpelstilzchen.gitlab.io/wordles/">this</a>.
