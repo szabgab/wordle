@@ -3,7 +3,6 @@ Wordle in all the languages of the world, or at least the ones we already know a
 
 * [Afrikaans](https://watse.klyntji.com/)
 * [Afrikaans](https://wortel.wrintiewaar.co.za/)
-* [Albanian](https://luaj.live/)
 * [Arabic](https://arwordle.netlify.app/) اَلْعَرَبِيَّةُ
 * [Arabic](https://www.kalimah.xyz/)
 * [Aragonese](https://paroletas-wordle.religada.com/) Aragonés
@@ -14,9 +13,7 @@ Wordle in all the languages of the world, or at least the ones we already know a
 * [Czech](https://hadejslova.cz/) Česká
 * [English](https://wordlegame.org/)
 * [French](https://www.solitaire-play.com/lemot/) En français
-* [French](https://wordlegame.org/wordle-in-french) En français
 * [French](https://wordle.louan.me/) En français
-* [German](https://wordle.uber.space/) Deutsch
 * [German](https://wordlegame.org/wordle-in-german) Deutsch
 * [Hebrew](https://meduyeket.net/) עברית
 * [Hungarian](https://szozat.miklosdanka.com/) Magyar
