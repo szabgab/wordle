@@ -31,10 +31,8 @@ Wordle in all the languages of the world, or at least the ones we already know a
 * [Portuguese](https://term.ooo/) Português  (Brazilian Portugues?)
 * [Russian](https://wordle.belousov.one/) русский язык
 * [Spanish](https://wordle.danielfrg.com/) Español
-* [Spanish](https://wordlegame.org/wordle-in-spanish) Español
 * [Swedish](https://ordsnille.brusman.se/) Svenska
 * [Swedish](https://ordlig.se/) Svenska
-* [Yiddish](https://www.jiconway.com/vertl/)  יידיש
 * [Yiddish](https://greenwichmeanti.me/wordle/)  יידיש
 * [Español](https://wordlees.com/)
 * [Català](https://wordlecatala.com/)
