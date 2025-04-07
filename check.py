@@ -11,7 +11,10 @@ def main():
             if match:
                 url = match.group(1)
                 print(url)
-                rv = requests.get(url)
+                headers = {
+                    'User-Agent': 'Wordle checker https://wordle.szabgab.com/',
+                }
+                rv = requests.get(url, headers=headers)
 
                 if rv.status_code == 200:
                     dom = BeautifulSoup(rv.content,  'html.parser')
